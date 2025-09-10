@@ -1,5 +1,5 @@
 
-#🎙️ Podcast – Os melhores chocolates do mundo
+# 🎙️ Podcast – Os melhores chocolates do mundo
 
 ## Projeto Podcast Gerado por I.As, criado a partir de 'fork' de projeto fornecido como base/exemplo para este durante o curso.
 
