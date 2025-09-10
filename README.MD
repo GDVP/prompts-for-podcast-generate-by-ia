@@ -17,6 +17,6 @@ Projeto criado como etapa exigida para conclusão de parte do curso sobre IAs ge
 - Audio gerado pela elevenLabs
 
 ## 📚 Materiais
-- Resultado na pasta 'assets'.
+- Resultado no arquivo de nome '20250909-Podcast Simulado-Gu_DVP.mp3', na raíz deste diretório.
 
 ⌨️ com 💜 por [Gustavo DVP](https://github.com/GDVP)
